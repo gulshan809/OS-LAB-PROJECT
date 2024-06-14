@@ -11,7 +11,8 @@ TO run this code you should follow given steps
   1.  Text editor/IDE: use a text editor like notepad+ or an IDE like Code ::Blocks Visual studio c++ etc...
   2. c++ compiler: ensure you have a c++ complier installed such as GCC(MinGW ON WIndows),Microsoft Visual C++ 
   3. RUN Application:
-     security Access Model.cbp
+     
+     
      
   4. Use the Application:
      1.  A GUI window will appear prompting for a username and password.
